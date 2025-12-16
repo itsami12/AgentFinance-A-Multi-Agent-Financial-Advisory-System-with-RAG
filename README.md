@@ -100,7 +100,3 @@ Integrated Financial Advice
 - SQLite
 - Virtual environment support
 - Recommended: 8GB RAM
-
----
-ame/AgentFinance-A-Multi-Agent-Financial-Advisory-System-with-RAG.git
-cd AgentFinance-A-Multi-Agent-Financial-Advisory-System-with-RAG
