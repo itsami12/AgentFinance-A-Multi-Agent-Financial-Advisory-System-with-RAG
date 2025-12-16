@@ -56,7 +56,7 @@ Unlike monolithic LLM systems, AgentFinance decomposes financial reasoning into 
 
 ## 🗂 System Architecture
 
-![AgentFinance Architecture](assets/arciture.png)
+![AgentFinance Architecture](arciture.png)
 
 **Flow Overview**
 
